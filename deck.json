@@ -1,10 +1,10 @@
 {
-    "name": "Template deck",
+    "name": "Vocaloid 2",
     "category": "KARUTA",
-    "type": "NORMAL",
-    "author": "Me",
-    "description": "My super karuta deck",
-	"prefix": "TST",
+    "type": "POP",
+    "author": "SayWess & Akashi42",
+    "description": "",
+	"prefix": "VSA",
     "cards": [
         {
             "id": 1,

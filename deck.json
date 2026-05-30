@@ -131,11 +131,11 @@
             "id": 12,
             "anime": "Vocaloid",
             "numbering": "MV",
-            "title": "KING (English Cover)【Will Stetson】",
-            "authors": "Kanaria, Will Stetson",
-            "image": "king_eng.png",
-            "audio": "king_eng.mp3",
-            "audio_url": "https://www.youtube.com/watch?v=9RZv-tG0OkU",
+            "title": "KING",
+            "authors": "Kanaria",
+            "image": "king.png",
+            "audio": "king.mp3",
+            "audio_url": "https://www.youtube.com/watch?v=cm-l2h6GB8Q",
             "anilist_id": 0
         },
         {

@@ -1,9 +1,9 @@
-# Template deck
-**Auteur :** Me  
+# Vocaloid 2
+**Auteur :** SayWess & Akashi42  
 **Categorie :** KARUTA  
-**Type :** NORMAL  
+**Type :** POP  
 
-My super karuta deck  
+  
 
 **Couverture :**  
 <img src="cover.png" alt="Image de couverture" width="250"/>  
